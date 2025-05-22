@@ -1,0 +1,67 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.book-details{
+    width: 250px;
+    height: 350px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3), -5px -2px 5px rgba(0, 0, 0, 0.3);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: small;
+    margin: 20px;
+    overflow-y: hidden;
+    transition: transform 0.2s ease;
+}
+
+.book-details:hover{
+    transform: scale(1.1);
+}
+
+.image{
+    width: 250px;
+    height: 200px;
+
+}
+
+.book-matter{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#bookDescription{
+ font-size: xx-small;
+}
+
+#bookAuthor{
+
+    color: #555;
+}
+
+.book-gallary{
+
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.searchdiv{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.searchdiv h1{
+    margin: 20px;
+}
+
+.searchbar{
+    width: 300px;
+}
