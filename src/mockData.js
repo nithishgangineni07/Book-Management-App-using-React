@@ -20,7 +20,7 @@ export const books = [
     title: "You Don’t Know JS Yet",
     author: "Kyle Simpson",
     description: "A deep dive into the core mechanics of JavaScript and how it really works.",
-    imageUrl: "https://images-na.ssl-images-amazon.com/images/I/51vb+vz2QaL._SX379_.jpg",
+    imageUrl: "",
     amount: 29.95
   },
   {
@@ -52,7 +52,7 @@ export const books = [
     title: "Design Patterns: Elements of Reusable Object-Oriented Software",
     author: "Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides",
     description: "A classic book outlining core design patterns for software development.",
-    imageUrl: "https://images-na.ssl-images-amazon.com/images/I/51k+eSYKt0L._SX379_BO1,204,203,200_.jpg",
+    imageUrl: "",
     amount: 49.99
   },
   {
@@ -68,7 +68,7 @@ export const books = [
     title: "Introduction to Algorithms",
     author: "Thomas H. Cormen",
     description: "A comprehensive book on algorithms, used in many university courses.",
-    imageUrl: "https://images-na.ssl-images-amazon.com/images/I/41VtKpTRN2L._SX379_BO1,204,203,200_.jpg",
+    imageUrl: "",
     amount: 89.50
   },
   {
@@ -76,7 +76,7 @@ export const books = [
     title: "Code Complete",
     author: "Steve McConnell",
     description: "A practical handbook of software construction with proven practices.",
-    imageUrl: "https://images-na.ssl-images-amazon.com/images/I/41cmyAqOb-L._SX396_BO1,204,203,200_.jpg",
+    imageUrl: "",
     amount: 37.75
   },
 
@@ -85,7 +85,7 @@ export const books = [
     title: "Thinking, Fast and Slow",
     author: "Daniel Kahneman",
     description: "A landmark book in psychology and behavioral economics that explores how we think and make decisions.",
-    imageUrl: "https://images-na.ssl-images-amazon.com/images/I/41sh7N5bGFL._SX331_BO1,204,203,200_.jpg",
+    imageUrl: "",
     amount: 18.99
   },
   {
@@ -109,7 +109,7 @@ export const books = [
     title: "The Midnight Library",
     author: "Matt Haig",
     description: "A story about the choices that go into a life well lived, and a magical library that offers second chances.",
-    imageUrl: "https://images-na.ssl-images-amazon.com/images/I/81Xc6Fh7bFL.jpg",
+    imageUrl: "",
     amount: 17.50
   },
   {
@@ -125,7 +125,7 @@ export const books = [
     title: "Where the Crawdads Sing",
     author: "Delia Owens",
     description: "A coming-of-age murder mystery set in the marshes of North Carolina.",
-    imageUrl: "https://images-na.ssl-images-amazon.com/images/I/81WWiiLgFNL.jpg",
+    imageUrl: "",
     amount: 14.25
   },
   {
@@ -133,7 +133,7 @@ export const books = [
     title: "The Book Thief",
     author: "Markus Zusak",
     description: "A young girl's relationship with books and words in Nazi Germany, narrated by Death.",
-    imageUrl: "https://images-na.ssl-images-amazon.com/images/I/81eA4KJ8zJL.jpg",
+    imageUrl: "",
     amount: 13.49
   },
   {
